@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Scott Heggen
-# Username: heggens
+# Author: Samantha Schweinsberg
+# Username: schweinsberg
 #
 # Assignment: A01 example
 # Purpose: A class demonstration of if, elif, else, and nested if statements

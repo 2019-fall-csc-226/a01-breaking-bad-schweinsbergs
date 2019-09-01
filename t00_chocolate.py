@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Scott Heggen & Emily Lovell           ****** TODO: CHANGE THIS!! ******
-# username: heggens & lovelle             ****** TODO: CHANGE THIS!! *****
+# Author: Samantha Schweinsberg          ****** TODO: CHANGE THIS!! ******
+# username: schweinsbergs          ****** TODO: CHANGE THIS!! *****
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
@@ -17,7 +17,7 @@
 
 # Section 1: User Input Section
 print("")
-entered_name = input("Please enter your name: ")
+entered_nam = input("Please enter your name: ")
 print("Hello " + entered_name + "! \n")
 
 num_boxes = int(input("How many chocolate boxes you would like? "))
@@ -33,6 +33,7 @@ oz_choc = lbs_choc * oz_per_lb
 # Section 3: Conditional (Decision-making) Section
 if oz_choc > 500:
     print("Wow, you must really like chocolate!")
+lbs_choc = 4
 else:
     print("Not a choc-o-holic, I guess! ")
 

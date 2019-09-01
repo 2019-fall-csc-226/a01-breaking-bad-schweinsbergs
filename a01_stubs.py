@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your name
-# Username: heggens             TODO: Change this to your username
+# Author: Samantha Schweinsberg     TODO: Change this to your name
+# Username: schweinsbergs           TODO: Change this to your username
 #
 # Assignment: A01
 #
@@ -17,6 +17,7 @@
 ######################################################################
 # (Required) Task 1
 # TODO Ask user for their birth year
+
 
 
 # TODO Check the year using if conditionals, and print the correct animal for that year.
