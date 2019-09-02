@@ -18,7 +18,31 @@
 # (Required) Task 1
 # TODO Ask user for their birth year
 
-
+year = int(input("Enter your year of birth to find your Chinese Zodiac!"))
+if year == 1999:
+    print("You're a rabbit!")
+elif year == 2000:
+    print("You're a dragon!")
+elif year == 2001:
+    print("You're a snake!")
+elif year == 2002:
+    print("You're a horse!")
+elif year == 2003:
+    print("You're a goat!")
+elif year == 2004:
+    print("You're a monkey!")
+elif year == 2005:
+    print("You're a rooster!")
+elif year == 2006:
+    print("You're a dog!")
+elif year == 2007:
+    print("You're a pig!")
+elif year == 2008:
+    print("You're a rat!")
+elif year == 2009:
+    print("You're an ox!")
+elif year == 2010:
+    print("You're a tiger!")
 
 # TODO Check the year using if conditionals, and print the correct animal for that year.
 # See the a01_pets.py for examples
