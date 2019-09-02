@@ -51,6 +51,32 @@ elif year == 2010:
 ######################################################################
 # (Required) Task 2
 # TODO Ask the user for their friend's birth year
+name = input("What's your friend's name?")
+year = int(input("What's your friend's birth year?"))
+if year == 1999:
+    print( name + " is a rabbit!")
+elif year == 2000:
+    print( name + " is a dragon!")
+elif year == 2001:
+    print( name + " is a snake!")
+elif year == 2002:
+    print( name + " is a horse!")
+elif year == 2003:
+    print( name + " is a goat!")
+elif year == 2004:
+    print( name + " is a monkey!")
+elif year == 2005:
+    print( name + " is a rooster!")
+elif year == 2006:
+    print( name + " is a dog!")
+elif year == 2007:
+    print( name + " is a pig!")
+elif year == 2008:
+    print( name + " is a rat!")
+elif year == 2009:
+    print( name + " is a ox!")
+elif year == 2010:
+    print( name + " is a rabbit!")
 
 
 # TODO Similar to above, check your friend's year using if conditionals, and print the correct animal for that year
